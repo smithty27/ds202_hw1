@@ -1,0 +1,33 @@
+---
+title: "HW1"
+author: "Tyler Smith; smithty27"
+date: "January 15, 2020"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Homework #1
+## *Tyler Smith; smithty27 on github* ##
+
+The job I am trying to get is sports analytics. Data science plays a *major* factor in this since the analysts need to interpret the data to do a number of analyses and predictive modeling. One job in particular that is relevant in the sports analytics world is called research and development, a field that I **really** want to get into. Here is a link (<https://www.workinsports.com/usrjobdetail-bt?jobid=355852>) to a job that is in the field with a company called Fanatics. This job is something I would enjoy doing, especially with the combinatioion of different aspects that I am interested in.
+
+![Fanatics Logo](C:/Users\Tyler\Desktop\ds202_hw1/Fanatics.png)
+
+
+```{r}
+version
+```
+
+The git version is 2.25.0.windows.1
+
+I have configured the git command to my user name, smithty27
+
+```{r pressure, echo=TRUE}
+
+```
+
