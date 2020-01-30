@@ -10,7 +10,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+this has been edited by Ritika Agrawal 
 # Homework #1
 ## *Tyler Smith; smithty27 on github* ##
 
